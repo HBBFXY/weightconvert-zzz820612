@@ -10,6 +10,10 @@ elif WeightStr[-2:].lower()=='pd':
   print("对应的公制单位为{:.3f}公斤".format(kg))
 else:
   print("输入格式错误")
+  10kg
+  对应的英制重量为22.046磅
+  10pd
+  对应的公制单位为4.535公斤
   
 
   
